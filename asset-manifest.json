@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vfc/static/css/main.cd3caed2.css",
+    "main.js": "/vfc/static/js/main.56e6a0a8.js",
+    "index.html": "/vfc/index.html",
+    "main.cd3caed2.css.map": "/vfc/static/css/main.cd3caed2.css.map",
+    "main.56e6a0a8.js.map": "/vfc/static/js/main.56e6a0a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd3caed2.css",
+    "static/js/main.56e6a0a8.js"
+  ]
+}
