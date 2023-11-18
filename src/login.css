@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .login-container {
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 5px;
+    width: 35%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .btns {
+    padding: 5px 120px 5px 120px;
+    border-radius: 10px;
+    background-color: #000;
+    border-color: #000;
+    color: #ffffff;
+  }
+  

@@ -1,0 +1,28 @@
+/* src/Home.css */
+.header {
+    background-color:rgb(225, 225, 241);
+    padding: 10px 20px;
+    position: fixed;
+    width: 100%;
+    /* z-index: 1000; */
+    margin-bottom: 300px;
+  }
+    .buttons{
+    margin-left: 1250px;
+    padding: 10px;
+  }
+  .logbtn{
+    text-decoration: none;
+    padding:5px 20px 20px 5px;
+    color:black;
+    font-size: 20px;
+  }
+  .signbtn{
+    text-decoration: none;
+    padding:5px 20px 20px 5px;
+    color:black;
+    font-size: 20px;
+  }
+  
+  
+  

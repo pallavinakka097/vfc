@@ -1,0 +1,67 @@
+Navbar.css.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(255, 255, 255);
+    color: white;
+    padding: 10px 20px;
+  }
+  /* styles.css (or your preferred stylesheet) */
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color:rgb(255, 255, 255);
+  color: #fff; /* Change this to your desired text color */
+  padding: 10px 20px; /* Adjust padding as needed */
+  z-index: 100; /* Set a higher z-index to ensure it's above other elements */
+}
+
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .buttons button {
+    margin-left: 10px;
+    padding: 8px 16px;
+    border-radius: 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  /* button {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+  } */
+  
+  .hotel-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+  }
+  
+  .hotel-card h2 {
+    font-size: 20px;
+  }
+  
+  .hotel-card p {
+    margin: 8px 0;
+  }
+  
+  .hmpg{
+    background-image: url("https://th.bing.com/th/id/OIP.5SPJAnkBHZrMyCvhHJ41HgHaEo?pid=ImgDet&rs=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+   height: 425px;
+   display: flex;
+  }
